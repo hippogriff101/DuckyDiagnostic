@@ -8,18 +8,28 @@ This is being subbmitted to Hack Club's YSWS [PicoDucky](picoducky.hackclub.com)
 
 When the USB is plugged in, press the button one to three times to signal the OS. This opens a terminal and runs several commands to gather information about the computer and automatically perform OS-specific troubleshooting steps. 
 
-### Commands to use
+__Note__: _The current version uses the ```keyboard``` and ```platform``` librarys instead of Pico Dukcky Code for now!
 
-#### Windows
-|   Win + r
-|   wt
-|   Enter
+## How to run (python)
 
-#### Mac
-|   Command + Space
-|   terminal
-|   Enter
+- Make sure python is installed
 
-#### Linux
-|   Ctrl + Alt + T
+- Use ```git clone https://github.com/hippogriff101/DuckyDiagnostic``` or download ```main.py``` from the releases tab (under devlopment)
+
+- Install all required dependenceys:
+
+```
+keyboard
+platform
+```
+
+- Run ```main.py```
+
+(a ```.exe``` and PicoDucky compatible version is in development)
+
+# AI Transparency
+
+Ai was used in this project to assist in debuging code and learning the ```powershell``` and ```terminal``` commands that the script uses.
+
+(UNFINISHED!!!! TBC...)
 
