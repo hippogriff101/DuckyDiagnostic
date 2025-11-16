@@ -32,6 +32,13 @@ __Note__: _The current version uses the ```keyboard``` and ```platform``` librar
 
 ---
 
+## 🍿 Demo
+
+
+https://github.com/user-attachments/assets/2dac8c51-cf48-4b69-ba1a-982bb89f2e3c
+
+---
+
 ## 🐍 How to run (python)
 
 - Make sure python is installed
